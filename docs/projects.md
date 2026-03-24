@@ -62,7 +62,6 @@ permalink: /projects/
                 .filter(repo => !repo.fork)
                 .forEach(repo => {
                     const socialPreviewCard = `https://opengraph.githubassets.com/1/${repo.full_name}`;
-
                     container.innerHTML += `
           <div class="project-card">
             <img src="${socialPreviewCard}" alt="${repo.name} preview" style="width:100%; border-radius:4px; margin-bottom:15px;">
