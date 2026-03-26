@@ -28,7 +28,10 @@ author:
       url: "https://github.com/yessamno"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/saifledeenbassowa"
+      url: "https://linkedin.com/in/saifeldeenbassowa"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/imsaifbass/"
 
 # Build settings
 markdown: kramdown

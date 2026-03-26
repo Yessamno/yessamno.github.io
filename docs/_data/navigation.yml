@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+  - url: /docs/index.html/
   - title: "About"
     url: /about/
   - title: "Projects"
